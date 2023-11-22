@@ -1,0 +1,2 @@
+C:\Users\Vini\Desktop\APS_Wcf\APS_Wcf\obj\Debug\APS_Wcf.csproj.AssemblyReference.cache
+C:\Users\Vini\Desktop\APS_Wcf\APS_Wcf\obj\Debug\APS_Wcf.csproj.CoreCompileInputs.cache
